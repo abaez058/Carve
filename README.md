@@ -40,5 +40,4 @@ When time runs out, the sculptures are compared and scored — either by AI or p
 
 ---
 
-## 🧰 Project Structure
 
