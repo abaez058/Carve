@@ -36,7 +36,6 @@ When time runs out, the sculptures are compared and scored — either by AI or p
 | **Networking** | Photon PUN / Unity Netcode for GameObjects |
 | **3D Assets** | Blender |
 | **Version Control** | Git + GitHub |
-| **AI Assistance** | ChatGPT (for code & design), Leonardo.ai (for assets), Suno.ai (for music) |
 
 ---
 
